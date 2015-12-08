@@ -4,7 +4,7 @@
   "description": "Ein Tech-Talk über node.js und node Module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Marius Büscher <marius.buescher@denkwerk.com>",
   "license": "MIT",
