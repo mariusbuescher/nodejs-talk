@@ -9,6 +9,7 @@
   "author": "Marius Büscher <marius.buescher@denkwerk.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^1.1.1"
+    "chalk": "^1.1.1",
+    "node-sass": "^3.4.2"
   }
 }
